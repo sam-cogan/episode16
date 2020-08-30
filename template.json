@@ -19,7 +19,7 @@
                 "Standard_ZRS",
                 "Premium_LRS"
             ],
-            "defaultValue": "Standard_LRS"
+            "defaultValue": "Standard_GRS"
         }
     },
     "variables": {
